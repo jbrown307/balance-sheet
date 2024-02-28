@@ -168,6 +168,10 @@ span[class~="sr-only"] {
     padding-right: 0.5rem;
   }
 
+  h1, h2, h3, h4 {
+    color:red;
+  }
+
 
 
 
